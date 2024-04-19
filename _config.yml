@@ -1,13 +1,13 @@
 # Site settings
-title: XLX Blog
-SEOTitle: 忻的博客 | XLX Blog
+title: GY Blog
+SEOTitle: 小葡萄的博客 | GY Blog
 header-img: img/post-bg-desk.jpg
 email: xulvxxin@bupt.edu.cn
 description: "Try anything new."
-keyword: "XLX, XLX Blog, 忻的博客, CVX, Matlab"
-url: "http://xlx2.github.io"          # your host, for absolute URL
+keyword: "GY, GY Blog, 小葡萄的博客, 未来电视"
+url: "http://YangGao1001.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/xlx2/xlx2.github.io.git" # you code repository
+github_repo: "https://github.com/YangGao1001/YangGao1001.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: false                         # whether or not using Sidebar.
@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: true
-weibo_username:     好饿想吃蛋黄酥
+weibo_username:     锅里鸭啊啊啊
 # zhihu_username:     qiubaiying
 # github_username:    qiubaiying
 # facebook_username:  baiying.qiu.7
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 0fb10a80080ea7ca0500                          #生成的clientID
-  clientSecret: 33117ac9125430c1833eadb0a5d6f718f88a6845   #生成的clientSecret
-  repo: xlx2.github.io    #仓库名称
-  owner: xlx2    #github用户名
-  admin: xlx2
+  clientID: 55b6dc275cef5b8ad2c1                         #生成的clientID
+  clientSecret: 4532acbcd074f9784b51285b0c007e5e848d32c2   #生成的clientSecret
+  repo: YangGao1001.github.io    #仓库名称
+  owner: YangGao1001    #github用户名
+  admin: YangGao1001
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
